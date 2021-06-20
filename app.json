@@ -1,7 +1,7 @@
 {
-  "name": "Man-Userbot",
-  "description": "[Man-Userbot] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "name": "arul-K",
+  "description": "[arul-K] userbot Telegram modular yang berjalan pada Python 3.9+",
+  "logo": "https://telegra.ph/",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/mrismanaziz/Man-Userbot",
-  "telegram": "https://t.me/mrismanaziz",
-  "success_url": "https://t.me/mrismanaziz",
+  "repository": "https://github.com/arullk5566/arul-K",
+  "telegram": "https://t.me/k556666",
+  "success_url": "https://t.me/arul-K",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -70,7 +70,7 @@
     },
     "ALIVE_LOGO": {
       "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+      "value": "https://telegra.ph/",
       "required": false
     },
     "ANTI_SPAMBOT": {
