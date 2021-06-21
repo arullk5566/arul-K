@@ -1,7 +1,6 @@
 {
   "name": "arul-K",
   "description": "[arul-K] userbot Telegram modular yang berjalan pada Python 3.9+",
-  "logo": "https://telegra.ph/",
   "keywords": [
     "telegram",
     "userbot",
@@ -67,11 +66,6 @@
     "ALIVE_NAME": {
       "description": "Masukan Nama untuk menunjukan pesan di perintah .alive / .afk / .ping dan lain lain",
       "required": true
-    },
-    "ALIVE_LOGO": {
-      "description": "Gambar dalam module .alive",
-      "value": "https://telegra.ph/",
-      "required": false
     },
     "ANTI_SPAMBOT": {
       "description": "Kick spambot dari grup setelah mereka bergabung. [Membutuhkan hak admin untuk kick.]",
